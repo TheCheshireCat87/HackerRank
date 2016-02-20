@@ -15,6 +15,9 @@ import java.util.Scanner;
 *                 ``-------''                 *
 *               The Cheshire Cat              *
 **********************************************/
+
+//TODO: Fix issue with failing test cases  and 7
+
 public class Solution {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
